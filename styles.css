@@ -1,0 +1,35 @@
+body {background-color: #033E3E; font-family: Comic Sans MS;}
+h1   {color: #FEA3AA;}
+h2 {color:#FEA3AA}
+p    {color:  #FEA3AA; }
+h1 {font-size: 47px; }
+h3 {color: #FEA3AA; }
+h4 {color: #FEA3AA; }
+.Bill {background-color: white;
+  border-style:double;
+  border-radius:8px;
+  border-width:6px;
+  border-color:#AFDCEC;
+  background-color:#123456;
+  width:40px;
+  height:40px;
+  text-align:center;
+  vertical-align: middle;
+  display: inline-block;}
+.Reagan {background-color: white;
+  border-style: dashed;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block}
+  input{
+    border-style: double;
+     border-radius: 8px;
+      border-width: 4px;
+       border-color: #FEA3AA;
+       background-color: #123456;
+        height: 27px;
+         vertical-align: middle;
+         color:white;
+  }
